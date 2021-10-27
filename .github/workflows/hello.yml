@@ -1,6 +1,6 @@
 name: Hello Workflow
 
-on: [Workflow_dispatch]
+on: [workflow_dispatch]
 
 jobs:
   hello:
